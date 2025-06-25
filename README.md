@@ -4,3 +4,4 @@
  3) Duplicates in a list
  4) Vowels Count in String
  5) Find Sum in List element
+ 6) Find unique in List
